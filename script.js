@@ -65,7 +65,6 @@ function applyTranslations(translations) {
         : translations.selectKeyCountLabel;
     document.getElementById('startBtn').innerText = translations.generateButton;
     document.getElementById('generatedKeysTitle').innerText = translations.generatedKeysTitle;
-    document.getElementById('creatorChannelBtn').innerText = translations.footerButton;
     document.getElementById('copyAllBtn').innerText = translations.copyAllKeysButton;
     document.getElementById('gameSelectLabel').innerText = translations.selectGameLabel;
 
@@ -234,7 +233,11 @@ document.getElementById('startBtn').addEventListener('click', async () => {
     startBtn.disabled = false;
 });
 
-document.getElementById('creatorChannelBtn').addEventListener('click', () => {
+document.getElementById('creatorChannelBtn1').addEventListener('click', () => {
+    window.location.href = 'https://t.me/hamsterkombatinsider';
+});
+
+document.getElementById('creatorChannelBtn2').addEventListener('click', () => {
     window.location.href = 'https://t.me/pdosi_project';
 });
 
