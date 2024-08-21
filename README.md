@@ -14,12 +14,15 @@ Hamster Kombat Universal Key Generator is a web application designed to generate
   - Chain Cube 2048
   - Train Miner
   - Bike Ride 3D
+  - Merge Away
+  - Twerk Race
+  - Polysphere
 
 ## Getting Started
 
 To use the Hamster Kombat key generator:
 
-1. Visit the [Hamster Kombat Universal Key Generator](https://kovirum.github.io/hamster_kombat_bike_keygen_web/) website.
+1. Visit the [Hamster Kombat Universal Key Generator](https://cloxyvz.github.io/hamster_kombat_bike_keygen_web/) website.
 2. Select the number of keys you wish to generate.
 3. Choose the game within "Hamster Kombat" for which you need the keys.
 4. Click on the `Generate Keys` button to start the process.
