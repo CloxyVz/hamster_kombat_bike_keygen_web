@@ -1,11 +1,5 @@
 const defaultLanguage = document.documentElement.getAttribute('lang')
 const gamePromoConfigs = {
-    MyCloneArmy: {
-        appToken: '74ee0b5b-775e-4bee-974f-63e7f4d5bacb',
-        promoId: 'fe693b26-b342-4159-8808-15e3ff7f8767',
-        eventsDelay: 120000,
-        attemptsNumber: 11
-    },
     ChainCube2048: {
         appToken: 'd1690a07-3780-4068-810f-9b5bbf2931b2',
         promoId: 'b4170868-cef0-424f-8eb9-be0622e8e8e3',
@@ -53,10 +47,16 @@ const gamePromoConfigs = {
         promoId: '8814a785-97fb-4177-9193-ca4180ff9da8',
         eventsDelay: 20000,
         attemptsNumber: 20
+    },
+    CafeDash: {
+        appToken: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
+        promoId: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
+        eventsDelay: 23000,
+        attemptsNumber: 16
     }
 };
 
-let currentAppConfig = gamePromoConfigs.MyCloneArmy;
+let currentAppConfig = Object.values(gamePromoConfigs)[0];
 var currentLanguage;
 var keygenActive = false;
 
