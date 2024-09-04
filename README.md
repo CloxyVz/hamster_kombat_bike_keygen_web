@@ -9,18 +9,16 @@ Hamster Kombat Universal Key Generator is a web application designed to generate
 - **Key Generation**: Generate up to 12 keys for different games in a single session.
 - **Multilingual Support**: The site supports multiple languages, including automatic detection of the user's preferred language and saving the selected language between sessions for a personalized experience.
 - **Responsive Design**: Accessible from any device, including mobile and desktop.
-- **Game Selection**: Choose from multiple games to generate keys for:
+- **Game Selection**: Choose from multiple games to generate keys
   - Chain Cube 2048
   - Train Miner
-  - Bike Ride 3D
   - Merge Away
   - Twerk Race
   - Polysphere
   - Mow and Trim
-  - Mug Racing
-  - Cafe Dash
-  - Gangs Wars
   - Zoopolis
+  - Tile Trio
+  - Fluff Crusade
 
 
 ## Getting Started
